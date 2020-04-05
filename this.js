@@ -1,0 +1,3 @@
+// untuk memahami this ini , tentunya kita harus sudah paham dulu berbagai cara untuk membuat dan memanggil object, kenapa harus faham dulu ? pada saat kita membuat dan memanggil object khususnya dengan menggunakan function / costructor function, nanti kita akan berada pada sebuah context atau sebuah keadaan yang berbeda, tergantung cara kita membuat dan memanggil functionnya, 
+
+// jika kita membuat dan memanggil functionnya dengan cara yang berbeda, kita akan berada pada context yang berbeda pula
